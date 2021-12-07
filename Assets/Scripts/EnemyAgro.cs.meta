@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2ebab34be6c6c95479ce25a65940f2a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - hero: {fileID: 4737738896492571820, guid: 89bc8b0d6b34dfb448f06e2527556d52, type: 3}
+  - PrototypeHero: {fileID: 4737738896338404202, guid: 89bc8b0d6b34dfb448f06e2527556d52, type: 3}
+  - Attack: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
